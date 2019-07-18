@@ -1,0 +1,7 @@
+/mysql		-> 数据库文件，需要导入mysql
+/php_api	-> php网站的接口文件
+/vue		-> 前端vue项目源码
+/ws_server	-> websocket服务源码
+
+
+不知道怎么用的联系QQ：1615958039

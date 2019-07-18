@@ -1,0 +1,3 @@
+websocket_server.php
+
+需要在php7.x的cli模式下运行，且需要安装swoole4和pdo_mysql库
